@@ -7,6 +7,9 @@
 </p>
 <br/>
 
+Test it here: https://ttave.netlify.app/
+#Works with Kovan test net!
+
 ## Summary
 
 This is a repo to build your own full stack defi staking application for yield farming, borrowing and lending, or any other project you can think of. It allows you to:
@@ -146,4 +149,5 @@ To get started with Brownie:
 # License
 
 This project is licensed under the [MIT license](LICENSE).
+
 # TAave
