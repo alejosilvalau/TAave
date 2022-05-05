@@ -7,8 +7,8 @@
 </p>
 <br/>
 
-Test it here: https://ttave.netlify.app/
-#Works with Kovan test net!
+- Test it here: https://ttave.netlify.app/
+- Works with Kovan test net!
 
 ## Summary
 
