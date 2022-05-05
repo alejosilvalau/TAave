@@ -21,7 +21,7 @@ And more!
 - [TAave](#TAave)
   - [Summary](#summary)
   - [Prerequisites](#prerequisites)
-- [Useage](#useage)
+- [Usage](#usage)
   - [Scripts](#scripts)
   - [Front end](#front-end)
   - [Testing](#testing)
@@ -36,7 +36,7 @@ Please install or have installed the following:
 - [brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
 - [ganache-cli](https://www.npmjs.com/package/ganache-cli)
 
-# Useage
+# Usage
 
 ## Scripts
 
