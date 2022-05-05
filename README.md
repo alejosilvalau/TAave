@@ -1,4 +1,4 @@
-# defi-stake-yield-brownie
+# TAave
 
 <br/>
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## Summary
 
-This is a repo to build your own full stack defi staking application for yield farming, borrowing and lending, or any other project you can think of. It allows you to:
+This project is a Defi app for yield farming, borrowing, and lending crypto assets. It is strongly inspired by the Aave protocol. It specifically allows you to:
 
 - `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do.
 - `unStakeTokens`: Remove your tokens from the contract.
@@ -18,7 +18,7 @@ This is a repo to build your own full stack defi staking application for yield f
 
 And more!
 
-- [defi-stake-yield-brownie](#defi-stake-yield-brownie)
+- [TAave](#TAave)
   - [Summary](#summary)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -26,8 +26,6 @@ And more!
   - [Scripts](#scripts)
   - [Front end](#front-end)
   - [Testing](#testing)
-  - [Linting](#linting)
-- [Resources](#resources)
 - [License](#license)
 
 ## Prerequisites
@@ -36,6 +34,8 @@ Please install or have installed the following:
 
 - [nodejs and npm](https://nodejs.org/en/download/)
 - [python](https://www.python.org/downloads/)
+- [brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
+- [ganache-cli](https://www.npmjs.com/package/ganache-cli)
 
 ## Installation
 
@@ -121,27 +121,6 @@ and you'll be able to interact with the UI
 ```
 brownie test
 ```
-
-## Linting
-
-```
-pip install black
-pip install autoflake
-autoflake --in-place --remove-unused-variables -r .
-black .
-```
-
-# Resources
-
-To get started with Brownie:
-
-- [Chainlink Documentation](https://docs.chain.link/docs)
-- Check out the [Chainlink documentation](https://docs.chain.link/docs) to get started from any level of smart contract engineering.
-- Check out the other [Brownie mixes](https://github.com/brownie-mix/) that can be used as a starting point for your own contracts. They also provide example code to help you get started.
-- ["Getting Started with Brownie"](https://medium.com/@iamdefinitelyahuman/getting-started-with-brownie-part-1-9b2181f4cb99) is a good tutorial to help you familiarize yourself with Brownie.
-- For more in-depth information, read the [Brownie documentation](https://eth-brownie.readthedocs.io/en/stable/).
-- [Create React App](https://create-react-app.dev/docs/adding-typescript/) for front end fun
-- [Materials-UI](https://material-ui.com/)
 
 # License
 
