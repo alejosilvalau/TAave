@@ -9,6 +9,8 @@
 
 ## Summary
 
+Upgrading it to ETH2.0, deployed version may not work as expected at the moment!
+
 This project is a Defi app for yield farming, borrowing, and lending crypto assets. It is strongly inspired by the Aave protocol. It specifically allows you to:
 
 - `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do.
