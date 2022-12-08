@@ -9,7 +9,7 @@
 
 ## Summary
 
-Currently deployed on Kovan. Upgrading it to ETH2.0, deployed version may not work as expected at the moment!
+Currently deployed on Kovan. Upgrading it to ETH2.0, deployed version not working properly at the moment!
 
 This project is a Defi app for yield farming, borrowing, and lending crypto assets. It is strongly inspired by the Aave protocol. It specifically allows you to:
 
